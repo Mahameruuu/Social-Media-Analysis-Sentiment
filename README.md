@@ -1,6 +1,3 @@
-![Uploading Sentimen.jpeg…]()
-
-
 Analisis Sentimen Media Sosial
 
 Repositori ini menyediakan alat dan metode untuk menganalisis sentimen dalam data media sosial menggunakan Python. Proyek ini mencakup pembersihan data, analisis data eksploratif (EDA), klasifikasi sentimen, dan evaluasi model pembelajaran mesin.
