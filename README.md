@@ -16,13 +16,14 @@ Library Python: Pandas, NumPy, Matplotlib, Seaborn, Plotly, WordCloud, NLTK, sci
 
 Instalasi:
 
-Clone repositori ini.
+1. Clone repositori ini.
 
-Buat lingkungan virtual.
+2. Buat lingkungan virtual.
 
-Instal dependensi menggunakan pip install -r requirements.txt.
+3. Instal dependensi menggunakan
+   ``pip install -r requirements.txt.``
 
-Letakkan dataset di direktori proyek.
+4. Letakkan dataset di direktori proyek.
 
 Penggunaan:
 
